@@ -7,6 +7,8 @@ Project list:
 
 # Certified Professional Data Engineer
 
+<img src="docs/professional-data-engineer-certification.png" alt="Professional Data Engineer" width="200">
+
 ![Professional Data Engineer](docs/professional-data-engineer-certification.png)
 
 
