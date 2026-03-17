@@ -9,9 +9,4 @@ Project list:
 
 <img src="docs/professional-data-engineer-certification.png" alt="Professional Data Engineer" width="200">
 
-![Professional Data Engineer](docs/professional-data-engineer-certification.png)
-
-
 [Badge](https://www.credly.com/badges/7a7abe2c-fdfd-4068-99e4-576cc2612797/public_url)
-
-
